@@ -1,0 +1,14 @@
+{
+  "item_group.teramod.alice": "Alice",
+  "item.alicemod_2.test": "Test",
+  "item.teramod.tobidougu": "Tobidougu",
+  "item.teramod.rinsenalice_spawn_egg": "Rinsenalice Spawn Egg",
+  "item.alicemod_2.rinsenalice_spawn_egg": "Rinsenalice Spawn Egg",
+  "item_group.alicemod_2.alice": "Alice",
+  "entity.alicemod_2.rinsenalice": "Rinsenalice",
+  "item.teramod.test": "Test",
+  "item.teramod.masicstick": "masicstick",
+  "entity.teramod.rinsenalice": "Rinsenalice",
+  "creativetabs.teramod_tab": "teramodtab",
+  "block.teramod.test_block": "test_block"
+}
