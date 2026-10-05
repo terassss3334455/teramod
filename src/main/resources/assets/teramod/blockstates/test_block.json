@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "teramod:block/test_block"
+    }
+  }
+}
